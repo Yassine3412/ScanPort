@@ -58,10 +58,4 @@ Par défaut, l'adresse IP scannée est `0.0.0.0`.
 - Permettre de scanner une plage de ports définie par l'utilisateur
 - Exporter les résultats dans un fichier JSON ou CSV
 
-## Licence
-
-Ce projet est sous licence MIT.
-
----
-
 🔥 **Développé avec Go pour une performance maximale !**
