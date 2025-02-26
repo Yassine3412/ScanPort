@@ -16,7 +16,7 @@ Ce projet est un scanner de ports rapide écrit en Go. Il permet de scanner les 
 ### 1. Cloner le projet
 
 ```sh
-git clone https://github.com/votre-utilisateur/port-scanner.git
+git clone https://github.com/Yassine3412/port-scanner.git
 cd port-scanner
 ```
 
